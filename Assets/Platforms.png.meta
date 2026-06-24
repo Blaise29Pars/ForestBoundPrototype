@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: 67473216f8a40ba469e3723f12193bd8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6125584148499672720
+    second: Screenshot 2026-06-08 183837-Picsart-BackgroundRemover_0
+  - first:
+      213: -2476182928597366159
+    second: Screenshot 2026-06-08 183837-Picsart-BackgroundRemover_1
+  - first:
+      213: -7518288010054670382
+    second: Screenshot 2026-06-08 183837-Picsart-BackgroundRemover_2
+  - first:
+      213: 6240391210932679106
+    second: Screenshot 2026-06-08 183837-Picsart-BackgroundRemover_3
+  - first:
+      213: -2881947958702785805
+    second: Screenshot 2026-06-08 183837-Picsart-BackgroundRemover_4
+  - first:
+      213: 9081344071766899531
+    second: Screenshot 2026-06-08 183837-Picsart-BackgroundRemover_5
+  - first:
+      213: -8598584344336521162
+    second: Screenshot 2026-06-08 183837-Picsart-BackgroundRemover_6
+  - first:
+      213: 447491637077066523
+    second: Screenshot 2026-06-08 183837-Picsart-BackgroundRemover_7
+  - first:
+      213: -719795231183292483
+    second: Screenshot 2026-06-08 183837-Picsart-BackgroundRemover_8
+  - first:
+      213: 2069936507658134381
+    second: Screenshot 2026-06-08 183837-Picsart-BackgroundRemover_9
+  - first:
+      213: 1457136308126421803
+    second: Screenshot 2026-06-08 183837-Picsart-BackgroundRemover_10
+  - first:
+      213: -6265895091330772104
+    second: Screenshot 2026-06-08 183837-Picsart-BackgroundRemover_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Platforms Level 1_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 110
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b092b7c3ab2afc49a1188c8f3ba1c23
+      internalID: -832919435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platforms Level 1_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 110
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00258f47f60844448ad8c0e5eb5d8c2
+      internalID: 1963397140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platforms Level 1_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 110
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c9fd8043f58654ab606ecb4dca64c2
+      internalID: 584494324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platforms Level 1_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 110
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5170a043698d94999e36d815ec9bbb
+      internalID: -559735657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platforms Level 1_4
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 110
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dbb360abfcf0b489efd8f72ad935ef
+      internalID: -1665260907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platforms Level 1_5
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 100
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcebe54a6ffeea4b8e1f42c211c9c4b
+      internalID: -589269551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platforms Level 1_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 24
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592ce903d07aac344992cedc00a788e2
+      internalID: -1323677032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platforms Level 1_7
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 12
+        width: 124
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d490a18f153c104684df938cca047fa
+      internalID: -1195841527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platforms Level 1_8
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 24
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638bf8d6a2dc61b41a664a6e18e79de1
+      internalID: 1430508768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platforms Level 1_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 24
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f2be993ca1f104abcf98b17773509c
+      internalID: -354643943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platforms Level 1_10
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 25
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8de0ca231702f64fb6c1b8716497a95
+      internalID: -943421054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platforms Level 1_11
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 24
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f587bf4b490b31449b701c681d99e4c7
+      internalID: 2050335083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9631ea3140ab8134ab34867e7cee115d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":70.0,"y":70.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Platforms Level 1_0: -832919435
+      Platforms Level 1_1: 1963397140
+      Platforms Level 1_10: -943421054
+      Platforms Level 1_11: 2050335083
+      Platforms Level 1_2: 584494324
+      Platforms Level 1_3: -559735657
+      Platforms Level 1_4: -1665260907
+      Platforms Level 1_5: -589269551
+      Platforms Level 1_6: -1323677032
+      Platforms Level 1_7: -1195841527
+      Platforms Level 1_8: 1430508768
+      Platforms Level 1_9: -354643943
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

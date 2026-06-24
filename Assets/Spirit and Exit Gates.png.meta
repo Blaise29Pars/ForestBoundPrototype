@@ -1,0 +1,808 @@
+fileFormatVersion: 2
+guid: b7155e5c0974851419bd5c89f6f1f6db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5165075061956383997
+    second: ChatGPT Image Jun 8, 2026, 06_41_24 PM_0
+  - first:
+      213: 2490779517973242859
+    second: ChatGPT Image Jun 8, 2026, 06_41_24 PM_1
+  - first:
+      213: -5895614829591977501
+    second: ChatGPT Image Jun 8, 2026, 06_41_24 PM_2
+  - first:
+      213: -128608367750281123
+    second: ChatGPT Image Jun 8, 2026, 06_41_24 PM_3
+  - first:
+      213: -7262591897425212875
+    second: ChatGPT Image Jun 8, 2026, 06_41_24 PM_4
+  - first:
+      213: 5067242213826945152
+    second: ChatGPT Image Jun 8, 2026, 06_41_24 PM_5
+  - first:
+      213: -428933386182130439
+    second: ChatGPT Image Jun 8, 2026, 06_41_24 PM_6
+  - first:
+      213: -4929226348999350990
+    second: ChatGPT Image Jun 8, 2026, 06_41_24 PM_7
+  - first:
+      213: 8043409225771337632
+    second: ChatGPT Image Jun 8, 2026, 06_41_24 PM_8
+  - first:
+      213: -1433395922522068459
+    second: ChatGPT Image Jun 8, 2026, 06_41_24 PM_9
+  - first:
+      213: 2444540431663496501
+    second: ChatGPT Image Jun 8, 2026, 06_41_24 PM_10
+  - first:
+      213: -4287173933316618692
+    second: ChatGPT Image Jun 8, 2026, 06_41_24 PM_11
+  - first:
+      213: -5570428917370306226
+    second: ChatGPT Image Jun 8, 2026, 06_41_24 PM_12
+  - first:
+      213: -2668066204449884939
+    second: ChatGPT Image Jun 8, 2026, 06_41_24 PM_13
+  - first:
+      213: 3233316613920018668
+    second: ChatGPT Image Jun 8, 2026, 06_41_24 PM_14
+  - first:
+      213: 2901937289837142899
+    second: ChatGPT Image Jun 8, 2026, 06_41_24 PM_15
+  - first:
+      213: 1567198536593670209
+    second: ChatGPT Image Jun 8, 2026, 06_41_24 PM_16
+  - first:
+      213: -5838657685784468830
+    second: ChatGPT Image Jun 8, 2026, 06_41_24 PM_17
+  - first:
+      213: -7468945001388448235
+    second: ChatGPT Image Jun 8, 2026, 06_41_24 PM_18
+  - first:
+      213: 1032884369917459923
+    second: ChatGPT Image Jun 8, 2026, 06_41_24 PM_19
+  - first:
+      213: 5886763836171925308
+    second: ChatGPT Image Jun 8, 2026, 06_41_24 PM_20
+  - first:
+      213: -3327926941709667016
+    second: ChatGPT Image Jun 8, 2026, 06_41_24 PM_21
+  - first:
+      213: -5154663411905095050
+    second: ChatGPT Image Jun 8, 2026, 06_41_24 PM_22
+  - first:
+      213: 993480712096372905
+    second: ChatGPT Image Jun 8, 2026, 06_41_24 PM_23
+  - first:
+      213: -5176116449489885849
+    second: ChatGPT Image Jun 8, 2026, 06_41_24 PM_24
+  - first:
+      213: -1221177877202662612
+    second: ChatGPT Image Jun 8, 2026, 06_41_24 PM_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spirit and Exit Gates_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 737
+        width: 215
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149ea1b6e38a0cf458c1ecebe6142eb4
+      internalID: -2132904636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirit and Exit Gates_1
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 714
+        width: 206
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf9e51d3943d3a4ea1b904c373923f0
+      internalID: 2135474277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate 1
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 752
+        width: 208
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fe132a7aafe31449b5af6b3cc90609
+      internalID: -468744586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate 2
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 747
+        width: 208
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbef1c1b6fc302e4d894c0b72f7c1e90
+      internalID: 632855406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate 3
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 752
+        width: 194
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9a27b4c439f2e4ca71ec91ed1d89fb
+      internalID: 800244819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate 4
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 752
+        width: 208
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa3f9a3b41d1354f8adb09f9052c0f5
+      internalID: 1621048256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirit and Exit Gates_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 489
+        width: 240
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5122015d3d193d48a0a299dece5f9d3
+      internalID: 811196706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirit and Exit Gates_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 466
+        width: 208
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f31305ef0688d9449053de3b61c9c64
+      internalID: -496943337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirit and Exit Gates_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 494
+        width: 210
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6ac4f91458c5d40956f8e2bc47cc29
+      internalID: 832856974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirit and Exit Gates_9
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 474
+        width: 216
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc8db2740a887c49947aab833b8c856
+      internalID: -648975856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirit and Exit Gates_10
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 468
+        width: 210
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ab44d1b4738534eb57df779fa3a838
+      internalID: -760489161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirit and Exit Gates_11
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 512
+        width: 239
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad582cba32180924dafb3c165438db25
+      internalID: -930218667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirit and Exit Gates_12
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 256
+        width: 196
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c89edbec9bdf1741a9f7afee6076d89
+      internalID: 1479441174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirit and Exit Gates_13
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 226
+        width: 204
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da17c6254cb584447a73cc829928d905
+      internalID: -1244041681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirit and Exit Gates_14
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 238
+        width: 209
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdd32aebeb41fb44ad50a4eca334763
+      internalID: 40285627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirit and Exit Gates_15
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 226
+        width: 210
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebbab27d463cf149b95f0b144ce6aba
+      internalID: -543192831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirit and Exit Gates_16
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 220
+        width: 207
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5400dff37413749bc96b16ff962c3d
+      internalID: 1011123337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirit and Exit Gates_17
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 256
+        width: 216
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d856debf2b3cd47aad249c296cc903
+      internalID: -1327054631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirit and Exit Gates_18
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 204
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f208e2310595cbe42a0be1cc3c7eab46
+      internalID: 113462258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirit and Exit Gates_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2
+        width: 208
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9f7f488683fb94588f8251d84e6d9b
+      internalID: -200791670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirit and Exit Gates_20
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 12
+        width: 219
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20508a43892a2874580166e24a76898a
+      internalID: -393540425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirit and Exit Gates_21
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 212
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e946f53dd5988342820c046d7e26fe8
+      internalID: 993494303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirit and Exit Gates_22
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 2
+        width: 213
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cf7190178782348ad80be1964f12f1
+      internalID: 81844755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirit and Exit Gates_23
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 2
+        width: 202
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e37db973970aa4497186b1941e2519
+      internalID: -814987053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirit and Exit Gates_24
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 30
+        width: 210
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ba4b23dc2b65f46a877f735d4390ef
+      internalID: 1587379124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirit and Exit Gates_25
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 105
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda89a1522551d64e9595f93e1a2228d
+      internalID: -1009029805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0df2a2b80471afa42bdce92273771fad
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":70.0,"y":70.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Gate 1: -468744586
+      Gate 2: 632855406
+      Gate 3: 800244819
+      Gate 4: 1621048256
+      Spirit and Exit Gates_0: -2132904636
+      Spirit and Exit Gates_1: 2135474277
+      Spirit and Exit Gates_10: -760489161
+      Spirit and Exit Gates_11: -930218667
+      Spirit and Exit Gates_12: 1479441174
+      Spirit and Exit Gates_13: -1244041681
+      Spirit and Exit Gates_14: 40285627
+      Spirit and Exit Gates_15: -543192831
+      Spirit and Exit Gates_16: 1011123337
+      Spirit and Exit Gates_17: -1327054631
+      Spirit and Exit Gates_18: 113462258
+      Spirit and Exit Gates_19: -200791670
+      Spirit and Exit Gates_20: -393540425
+      Spirit and Exit Gates_21: 993494303
+      Spirit and Exit Gates_22: 81844755
+      Spirit and Exit Gates_23: -814987053
+      Spirit and Exit Gates_24: 1587379124
+      Spirit and Exit Gates_25: -1009029805
+      Spirit and Exit Gates_6: 811196706
+      Spirit and Exit Gates_7: -496943337
+      Spirit and Exit Gates_8: 832856974
+      Spirit and Exit Gates_9: -648975856
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

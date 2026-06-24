@@ -1,0 +1,1796 @@
+fileFormatVersion: 2
+guid: 929e3207065c9614c84eb922e1991d33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 269110525069561253
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_0
+  - first:
+      213: -4500461903856276705
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_1
+  - first:
+      213: 3433062231706765437
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_2
+  - first:
+      213: -2324391361527608819
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_3
+  - first:
+      213: -2790940255490459622
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_4
+  - first:
+      213: 1666005474931912944
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_5
+  - first:
+      213: 5647620249863646496
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_6
+  - first:
+      213: -7948369923800370773
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_7
+  - first:
+      213: 3167152066107635039
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_8
+  - first:
+      213: -6236525060854974592
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_9
+  - first:
+      213: -1567789458829826318
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_10
+  - first:
+      213: -7772414096696936677
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_11
+  - first:
+      213: 1009697889874700388
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_12
+  - first:
+      213: 3312951809143895615
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_13
+  - first:
+      213: -8704982263432645674
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_14
+  - first:
+      213: 7868714338406875646
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_15
+  - first:
+      213: -947333072277441265
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_16
+  - first:
+      213: 3630602521159881577
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_17
+  - first:
+      213: 4023175913934928151
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_18
+  - first:
+      213: -8588248151877497957
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_19
+  - first:
+      213: -7668351779322642795
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_20
+  - first:
+      213: -7520789805651362515
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_21
+  - first:
+      213: -4750910364954756360
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_22
+  - first:
+      213: 9220579350107693129
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_23
+  - first:
+      213: -4853049111531908864
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_24
+  - first:
+      213: 5535590327695092788
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_25
+  - first:
+      213: 6001407396619224531
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_26
+  - first:
+      213: -9037684305510982076
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_27
+  - first:
+      213: -1298011445885552768
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_28
+  - first:
+      213: -7062371789294011866
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_29
+  - first:
+      213: 3676270793078322651
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_30
+  - first:
+      213: 4262571617697951183
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_31
+  - first:
+      213: 9152311726973660183
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_32
+  - first:
+      213: 1486405743300531674
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_33
+  - first:
+      213: -8214723462339359386
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_34
+  - first:
+      213: -2724099144013307901
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_35
+  - first:
+      213: -1795840934993400004
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_36
+  - first:
+      213: -5946238005743627938
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_37
+  - first:
+      213: 999499344447977905
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_38
+  - first:
+      213: -4284352788541415358
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_39
+  - first:
+      213: 1813785245512930992
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_40
+  - first:
+      213: 6144973668830540049
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_41
+  - first:
+      213: -8650648838651035152
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_42
+  - first:
+      213: -7264110707822876223
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_43
+  - first:
+      213: 8617032819072945252
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_44
+  - first:
+      213: -8013661522934631516
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_45
+  - first:
+      213: -1879853303188233691
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_46
+  - first:
+      213: -5273382515114611936
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_47
+  - first:
+      213: -8921282113576031740
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_48
+  - first:
+      213: -3875611305746967129
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_49
+  - first:
+      213: -749960557614368446
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_50
+  - first:
+      213: -7098878780035568481
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_51
+  - first:
+      213: 1410808987227339463
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_52
+  - first:
+      213: -8294409087127404541
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_53
+  - first:
+      213: -5485787026953042200
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_54
+  - first:
+      213: -5092856524914376497
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_55
+  - first:
+      213: 272499770231188930
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_56
+  - first:
+      213: -7104385670920788559
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_57
+  - first:
+      213: -698946890271203703
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_58
+  - first:
+      213: 5321918781687190057
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_59
+  - first:
+      213: -3377262555798181317
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_60
+  - first:
+      213: -4534846376870598121
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_61
+  - first:
+      213: -5130942798989848501
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_62
+  - first:
+      213: 2576015258809994707
+    second: Screenshot 2026-06-08 182717-Picsart-BackgroundRemover_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: White Spirit 1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 391
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bef97215eb13014aa119facfc2013b5
+      internalID: 1601337817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Spirit 2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 393
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f5dd7c10b0cae4a8ba2600c6e62ed8
+      internalID: -1818233891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Spirit 3
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 395
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d47d504ca8adc64680d1361d29df1a5
+      internalID: -62665231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Spirit 4
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 400
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8162ae23d0637c846b30015225c23df4
+      internalID: -874255095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Spirit 5
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 395
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd9bb42ec9c3654c9d1be1ac9815af2
+      internalID: 651997779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Spirit 6
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 395
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3ee702a99be144b932b33d539cf99f
+      internalID: -2004798655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Spirit 7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 392
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab745e1d40c4ca47ba7a47131457767
+      internalID: 1215776949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Spirit 8
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 387
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082a80d00b8ef3348bcd87d453bacd29
+      internalID: 74385181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_8
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 353
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849ee224a4595fa4abd83afe3aea61af
+      internalID: -559314589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_9
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 353
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd5f1a6414a6dc419ecd51ec33baeab
+      internalID: -1822990217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_10
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 355
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f659c082a091984e82a99600db04482
+      internalID: 704922346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_11
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 303
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bb2310a1edecd408ac7547994dfc4e
+      internalID: 1552598265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_12
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 355
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaba72deb58377243bc5aaa98df812fb
+      internalID: -1113596534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_13
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 355
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e411758419f49b4c91ba2e0e5ea6633
+      internalID: 155955899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 288
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6e6c49c6906b748b4d53fff208f4ad
+      internalID: 1896303551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 299
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5152cd6de68d90c4bbef086465ddc018
+      internalID: 168431998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_16
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 292
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c0b70306101fb4d97efe4f628dba05
+      internalID: 965168285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 295
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06b6901bb9327e45ad92a6715592767
+      internalID: 1698243932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_18
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 296
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6ac689d5ea3484baa3c1db477ee5a6
+      internalID: -110232006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_19
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 294
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05e31d914336444784fab2aa92d0836
+      internalID: -362395460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_20
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 290
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac49d14b6870aaa4194d620496d12951
+      internalID: 2101874888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_21
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 286
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6caad6ce92dad45b72f0cf61abcf3a
+      internalID: -360147727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_22
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 256
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba179619e8ae5f439b4c9956e41f9f0
+      internalID: 984663916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_23
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 258
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6019e9d8df70c4fa67b07940644381
+      internalID: 1550192246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Spirit 4
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 205
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8304d5e6c36dff14bbcc8586b84eb102
+      internalID: 39564648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_25
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 258
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f4b69d8b5ee8141a884f9e7ea57498
+      internalID: -2064654478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_26
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 258
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551e88500125a1048891272b6cbb4ccf
+      internalID: 536692295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_27
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 258
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78adcc6ae790ea4db91acf0fe836a65
+      internalID: -1905779891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Spirit 1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 191
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15562f81e2b168b4ca167678d995a53b
+      internalID: -715358238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Spirit 2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 192
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2167c89c998aa48a6f4ef7e1a82d19
+      internalID: -1447135026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Spirit 3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 198
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c66f31ac22205643b0fb9984688b8c7
+      internalID: -1650368132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Spirit 5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 197
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003c0de0cacefd44abb94fde0aaec6ab
+      internalID: -236140050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Spirit 6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 194
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e624e9fa949c84da837b3f65c30f78
+      internalID: 1656050855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Spirit 7
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 190
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a773477deaa2c4882a6af9be16e64b
+      internalID: -1288237321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Spirit 8
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 189
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533490187eb2b99409171de214437413
+      internalID: -363013961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_35
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 161
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb75265bf1a657c48b182795205d4dfc
+      internalID: -1045451391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_36
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 161
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8931598d3ac078c42bb7b2d3329f9f09
+      internalID: -468949974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_37
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 162
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880778f490b0ce545a7f69a2bd579bb3
+      internalID: 1638017139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Spirit 4
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 106
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf2085d9d153b6469bbb0db3718315e
+      internalID: 91601954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_39
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 162
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be28666b3bf7bd4abf34d8e4e7a2540
+      internalID: -779454827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_40
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 162
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6536c819be1d24fb98c8507613d614
+      internalID: -378188545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_41
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 162
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7027ed0eae03b944891ce69ac24895f3
+      internalID: -432363891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_42
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 162
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d7c8ed40c50c84d97a13188c151dec
+      internalID: 158598445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Spirit 1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 102
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e239aed59d36ed340b8b5699d15969ea
+      internalID: -1638130358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Spirit 2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 101
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fa5c6b143b8d943bbb8b866d1d7afc
+      internalID: 1987481664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Spirit 3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 103
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bc9424a18c65745818e50361342d8c
+      internalID: -508956278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Spirit 5
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 103
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bd268267b0eb14fa5552b59d7264d7
+      internalID: -950087627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Spirit 6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 102
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aaa6b7829955554ab44bfc84facf145
+      internalID: -1297724976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Spirit 7
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 101
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73e48b17590fa645890b7434925f32d
+      internalID: 198540038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Spirit 8
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 100
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fa79f79b60464488bbd1e7430bd690
+      internalID: -116468511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_50
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 73
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81f2b7013c923e4ba007c5c0707e794
+      internalID: 300940796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_51
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 74
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42604ba3cd01fdd459df796be8a65888
+      internalID: 474972887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_52
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 74
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf636177d0cb374889dda8f0b864b24
+      internalID: -1190671539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_53
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 28
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f597993bf1447be428383aa0448196c3
+      internalID: -1409879166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_54
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 75
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2f75e531d09ef498044ae9c9fc2f27
+      internalID: -2137497542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_55
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 75
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d39d23f0eb7af4db1a7c39b81cb301
+      internalID: -1546364996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_56
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 75
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dceec088029ae64186cffb8f2a655e8
+      internalID: 1070718546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_57
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 13
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6075254864f794d997981c3f1821ff
+      internalID: 1672327602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_58
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 17
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45837c6ab3b0fb84895dc5f47a242ea0
+      internalID: 1274317640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_59
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 21
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13df720b245768b4cbb4a1560e276222
+      internalID: -1591418589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_60
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 21
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76f5556a277df5478078ba4245caf75
+      internalID: 471419218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_61
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 19
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9deacda28440f742bc81329c4a7e1bf
+      internalID: 259362277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_62
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 14
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42c854f951564c44beae83113d4878a
+      internalID: 229518227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirits_63
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 12
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3127b150e5df2b459b4507918df8f45
+      internalID: 1549726834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 85bd99a9dc5d6f24ea4bcede90f220c6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":70.0,"y":70.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Blue Spirit 1: -715358238
+      Blue Spirit 2: -1447135026
+      Blue Spirit 3: -1650368132
+      Blue Spirit 4: 39564648
+      Blue Spirit 5: -236140050
+      Blue Spirit 6: 1656050855
+      Blue Spirit 7: -1288237321
+      Blue Spirit 8: -363013961
+      Purple Spirit 1: -1638130358
+      Purple Spirit 2: 1987481664
+      Purple Spirit 3: -508956278
+      Purple Spirit 4: 91601954
+      Purple Spirit 5: -950087627
+      Purple Spirit 6: -1297724976
+      Purple Spirit 7: 198540038
+      Purple Spirit 8: -116468511
+      Spirits_10: 704922346
+      Spirits_11: 1552598265
+      Spirits_12: -1113596534
+      Spirits_13: 155955899
+      Spirits_14: 1896303551
+      Spirits_15: 168431998
+      Spirits_16: 965168285
+      Spirits_17: 1698243932
+      Spirits_18: -110232006
+      Spirits_19: -362395460
+      Spirits_20: 2101874888
+      Spirits_21: -360147727
+      Spirits_22: 984663916
+      Spirits_23: 1550192246
+      Spirits_25: -2064654478
+      Spirits_26: 536692295
+      Spirits_27: -1905779891
+      Spirits_35: -1045451391
+      Spirits_36: -468949974
+      Spirits_37: 1638017139
+      Spirits_39: -779454827
+      Spirits_40: -378188545
+      Spirits_41: -432363891
+      Spirits_42: 158598445
+      Spirits_50: 300940796
+      Spirits_51: 474972887
+      Spirits_52: -1190671539
+      Spirits_53: -1409879166
+      Spirits_54: -2137497542
+      Spirits_55: -1546364996
+      Spirits_56: 1070718546
+      Spirits_57: 1672327602
+      Spirits_58: 1274317640
+      Spirits_59: -1591418589
+      Spirits_60: 471419218
+      Spirits_61: 259362277
+      Spirits_62: 229518227
+      Spirits_63: 1549726834
+      Spirits_8: -559314589
+      Spirits_9: -1822990217
+      White Spirit 1: 1601337817
+      White Spirit 2: -1818233891
+      White Spirit 3: -62665231
+      White Spirit 4: -874255095
+      White Spirit 5: 651997779
+      White Spirit 6: -2004798655
+      White Spirit 7: 1215776949
+      White Spirit 8: 74385181
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
